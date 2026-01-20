@@ -37,9 +37,9 @@ By transforming raw flight state information into structured information, the an
 This creates a driving factor for predictive modeling, spatiotemporal movement analysis, and the monitoring of aircraft activity within defined geographic or regulatory airspace boundaries.
 
 #  References
-   1. OpenSky Network Official Documentation
-   2. ADS-B and Mode S Surveillance Standards
-   3. REST API Design Patterns for Real-Time Data
+1. OpenSky Network Official Documentation
+2. ADS-B and Mode S Surveillance Standards
+3. REST API Design Patterns for Real-Time Data
 
 
 
